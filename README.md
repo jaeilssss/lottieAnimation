@@ -1,10 +1,13 @@
 # lottieAnimation
 
-Lottie 라이브러리를 이용한 간단 프로젝트 
+Lottie 라이브러리를 이용한 간단 프로젝트. 
+
 기술 스택 : Lottie
+
 dependencies {
     implementation 'com.airbnb.android:lottie:3.7.0'
     }
+    
 사용 언어 : Kotlin
 git 출처 : https://lottiefiles.com/search?q=heart&category=animations
 

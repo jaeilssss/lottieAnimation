@@ -9,7 +9,6 @@ dependencies {
     }
     
 사용 언어 : Kotlin
-git 출처 : https://lottiefiles.com/search?q=heart&category=animations
 
 ![lottie1](https://user-images.githubusercontent.com/59818827/116840721-e9b05100-ac11-11eb-8f93-81ca8b3d7583.gif)
 
